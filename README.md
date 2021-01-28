@@ -252,3 +252,9 @@ Initially I just wanted to polish a shader I did last year, the result is from f
 
 Можно примерно отсюда начать https://pabloariasal.github.io/2018/02/19/its-time-to-do-cmake-right/
 Wot esche https://floooh.github.io/2016/01/12/cmake-dependency-juggling.html
+
+Texture compression in 2020
+https://aras-p.info/blog/2020/12/08/Texture-Compression-in-2020/
+
+Nathan Reed's blog
+http://www.reedbeta.com/all/
