@@ -258,3 +258,15 @@ https://aras-p.info/blog/2020/12/08/Texture-Compression-in-2020/
 
 Nathan Reed's blog
 http://www.reedbeta.com/all/
+
+Graphics Twitter: Any good references on the state of the art for water rendering? https://twitter.com/js_guay/status/1354866876950700039
+https://www.researchgate.net/publication/309750595_A_real-time_photo-realistic_rendering_algorithm_of_ocean_color_based_on_bio-optical_model
+https://www.oceanopticsbook.info/view/introduction/overview
+Handbook of Optics
+
+http://www.pbr-book.org/3ed-2018/Reflection_Models/Microfacet_Models.html
+https://dl.acm.org/doi/abs/10.1145/3272127.3275059
+https://rgl.epfl.ch/publications/Dupuy2018Adaptive
+https://www.osapublishing.org/josaa/abstract.cfm?uri=josaa-36-4-594
+https://mitsuba2.readthedocs.io/en/latest/src/getting_started/intro.html
+https://github.com/rafael-fuente/Diffraction-Simulations--Angular-Spectrum-Method
