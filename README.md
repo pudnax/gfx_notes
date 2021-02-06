@@ -270,3 +270,25 @@ https://rgl.epfl.ch/publications/Dupuy2018Adaptive
 https://www.osapublishing.org/josaa/abstract.cfm?uri=josaa-36-4-594
 https://mitsuba2.readthedocs.io/en/latest/src/getting_started/intro.html
 https://github.com/rafael-fuente/Diffraction-Simulations--Angular-Spectrum-Method
+
+Site with well known links
+https://creativecoding.soe.ucsc.edu/courses/cmpm164/materials.php
+
+https://github.com/electricsquare/raymarching-workshop Raymarching
+workshop
+
+https://blog.demofox.org/2020/05/25/casual-shadertoy-path-tracing-1-basic-camera-diffuse-emissive/
+￼
+Compute shaders
+[10:38]
+https://www.cg.tuwien.ac.at/courses/Realtime/repetitorium/VU.WS.2014/rtr_rep_2014_ComputeShader.pdf
+[10:40]
+https://alexene.dev/2014/06/03/Compute-shaders-and-particles.html
+[10:42]
+https://jonathansteyfkens.com/posts
+￼
+https://web.engr.oregonstate.edu/~mjb/cs557/
+[11:39]
+https://www.chrishecker.com/Miscellaneous_Technical_Articles
+https://anteru.net/blog/2018/intro-to-compute-shaders/index.html
+Miscellaneous Technical Articles
