@@ -292,3 +292,11 @@ https://web.engr.oregonstate.edu/~mjb/cs557/
 https://www.chrishecker.com/Miscellaneous_Technical_Articles
 https://anteru.net/blog/2018/intro-to-compute-shaders/index.html
 Miscellaneous Technical Articles
+
+https://www.duskborn.com/posts/a-simple-vulkan-compute-example/
+A simple Vulkan Compute example
+https://github.com/Erkaman/vulkan_minimal_compute
+Erkaman/vulkan_minimal_compute
+￼
+https://cachemiss.xyz/blog/parallel-reduce-and-scan-on-the-GPU
+Parallel reduce and scan on the GPU
