@@ -300,3 +300,7 @@ Erkaman/vulkan_minimal_compute
 ￼
 https://cachemiss.xyz/blog/parallel-reduce-and-scan-on-the-GPU
 Parallel reduce and scan on the GPU
+
+Fix Your Timestep! | Gaffer On Games
+https://www.gafferongames.com/post/fix_your_timestep/
+https://gameprogrammingpatterns.com/game-loop.html
