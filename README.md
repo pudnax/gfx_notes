@@ -308,3 +308,11 @@ https://gameprogrammingpatterns.com/game-loop.html
 Implementing Bitonic Merge Sort in Vulkan Compute
 https://poniesandlight.co.uk/reflect/bitonic_merge_sort/
 
+A simple path tracer on the GPU
+https://www.mattkeeter.com/projects/rayray/
+
+Paint and simulations
+https://michaelmoroz.github.io/
+
+Bilinear Up/Downsampleing
+https://bartwronski.com/2021/02/15/bilinear-down-upsampling-pixel-grids-and-that-half-pixel-offset/
