@@ -316,3 +316,7 @@ https://michaelmoroz.github.io/
 
 Bilinear Up/Downsampleing
 https://bartwronski.com/2021/02/15/bilinear-down-upsampling-pixel-grids-and-that-half-pixel-offset/
+
+GPU subgroups
+https://www.reddit.com/r/vulkan/comments/lh9cu1/do_compute_shaders_only_parallelize_up_to_local/
+https://www.reddit.com/r/vulkan/comments/lfhjjj/how_to_efficiently_perform_compute_reductions/
