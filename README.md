@@ -320,3 +320,18 @@ https://bartwronski.com/2021/02/15/bilinear-down-upsampling-pixel-grids-and-that
 GPU subgroups
 https://www.reddit.com/r/vulkan/comments/lh9cu1/do_compute_shaders_only_parallelize_up_to_local/
 https://www.reddit.com/r/vulkan/comments/lfhjjj/how_to_efficiently_perform_compute_reductions/
+
+Learning Computer Graphics Techniques a...
+https://miketuritzin.com/post/how-to-learn-computer-graphics-techniques-and-programming/
+
+Real-Time Physically Based Rendering and BRDFs
+https://mechanicsfoundry.github.io/Physically-Based-Rendering-and-BRDFs/
+
+Implementing Disney Principled BRDF in Arnold
+http://shihchinw.github.io/2015/07/implementing-disney-principled-brdf-in-arnold.html
+
+Geometrical pictures, mesh shaders
+https://www.reddit.com/r/hardware/comments/gkcd9b/pixels_triangles_whats_the_difference_how_i_think/
+
+Amit’s Thoughts on Grids
+http://www-cs-students.stanford.edu/~amitp/game-programming/grids/#derivation
