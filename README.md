@@ -335,3 +335,19 @@ https://www.reddit.com/r/hardware/comments/gkcd9b/pixels_triangles_whats_the_dif
 
 Amit’s Thoughts on Grids
 http://www-cs-students.stanford.edu/~amitp/game-programming/grids/#derivation
+
+Vulkan course from Oregon University
+https://web.engr.oregonstate.edu/~mjb/vulkan/
+
+Frustum generation
+https://www.gamedevs.org/uploads/fast-extraction-viewing-frustum-planes-from-world-view-projection-matrix.pdf
+
+Vulkan memory types and choices on different platforms
+https://asawicki.info/news_1740_vulkan_memory_types_on_pc_and_how_to_use_them
+
+Everything (or most things) wrong with learnopengl.com/PBR/Theory
+https://docs.google.com/document/d/1ZLT1-fIek2JkErN9ZPByeac02nWipMbO89oCW2jxzXo/edit
+
+More about synchronization
+https://www.jeremyong.com/vulkan/graphics/rendering/2018/11/22/vulkan-synchronization-primer/
+https://www.jeremyong.com/vulkan/graphics/rendering/2018/11/22/vulkan-synchronization-primer/
