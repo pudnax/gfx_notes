@@ -351,3 +351,12 @@ https://docs.google.com/document/d/1ZLT1-fIek2JkErN9ZPByeac02nWipMbO89oCW2jxzXo/
 More about synchronization
 https://www.jeremyong.com/vulkan/graphics/rendering/2018/11/22/vulkan-synchronization-primer/
 https://www.jeremyong.com/vulkan/graphics/rendering/2018/11/22/vulkan-synchronization-primer/
+
+An Introduction to Raymarching. Contribute to electricsquare/raymarching-workshop development by creating an account on GitHub.
+https://github.com/electricsquare/raymarching-workshop
+￼
+https://mercury.sexy/hg_sdf/
+GLSL Noise Algorithms . GitHub Gist: instantly share code, notes, and snippets.
+https://gist.github.com/patriciogonzalezvivo/670c22f3966e662d2f83
+[10:36]
+https://erleuchtet.org/~cupe/permanent/enhanced_sphere_tracing.pdf
