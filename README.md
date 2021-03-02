@@ -360,3 +360,6 @@ GLSL Noise Algorithms . GitHub Gist: instantly share code, notes, and snippets.
 https://gist.github.com/patriciogonzalezvivo/670c22f3966e662d2f83
 [10:36]
 https://erleuchtet.org/~cupe/permanent/enhanced_sphere_tracing.pdf
+
+"Crash Course in BRDF Implementation"
+https://github.com/boksajak/brdf
