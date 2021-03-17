@@ -144,11 +144,6 @@ GitHub
 BVE-Reborn/rend3
 Easy to use, customizable, efficient 3D renderer library built on wgpu. - BVE-Reborn/rend3
 
-
-
-
-
-
 https://codesandbox.io/s/charming-ritchie-5oufp?file=/src/Scene.js
 CodeSandbox
 drcmda
@@ -161,12 +156,6 @@ https://twitter.com/FewesW/status/1300045087938879489
 Felix Westin (@FewesW)
 If you've never tried tri-cubic texture interpolation when ray-marching, give it a shot! It makes a massive difference for getting a smooth signal. Here's some Unity-compatible code: https://t.co/Y3Wtk2LFXC
 Adapted from: https://t.co/9qYQy4No4F
-Retweets
-124
-Likes
-617
-
-
 
 Twitter•30/08/2020
 https://twitter.com/keenanisalive/status/1321397305514332161
@@ -179,13 +168,6 @@ https://t.co/kpDnv93ttj
 Give it a try!
 
 (Course page here: https://t.co/ByMWbubjnZ @CSDatCMU) https://t.co/BQVWdCVc0e
-Retweets
-170
-Likes
-718
-
-
-Twitter•28/10/2020
 
 https://www.shadertoy.com/view/ts2yWV
 Shadertoy
@@ -350,11 +332,10 @@ https://docs.google.com/document/d/1ZLT1-fIek2JkErN9ZPByeac02nWipMbO89oCW2jxzXo/
 
 More about synchronization
 https://www.jeremyong.com/vulkan/graphics/rendering/2018/11/22/vulkan-synchronization-primer/
-https://www.jeremyong.com/vulkan/graphics/rendering/2018/11/22/vulkan-synchronization-primer/
 
 An Introduction to Raymarching. Contribute to electricsquare/raymarching-workshop development by creating an account on GitHub.
 https://github.com/electricsquare/raymarching-workshop
-￼
+
 https://mercury.sexy/hg_sdf/
 GLSL Noise Algorithms . GitHub Gist: instantly share code, notes, and snippets.
 https://gist.github.com/patriciogonzalezvivo/670c22f3966e662d2f83
