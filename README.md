@@ -344,3 +344,40 @@ https://erleuchtet.org/~cupe/permanent/enhanced_sphere_tracing.pdf
 
 "Crash Course in BRDF Implementation"
 https://github.com/boksajak/brdf
+
+Breaking Down Barrier
+https://therealmjp.github.io/posts/breaking-down-barriers-part-1-whats-a-barrier/
+
+https://suricrasia.online/demoscene/functions/
+Useful functions for shader live coding
+
+Deriving Lambertian BRDF from first principles
+https://sakibsaikia.github.io/graphics/2019/09/10/Deriving-Lambertian-BRDF-From-First-Principles.html
+
+Sampling Anisotropic Microfacet BRDF
+https://agraphicsguy.wordpress.com/2018/07/18/sampling-anisotropic-microfacet-brdf/
+
+https://www.cg.tuwien.ac.at/courses/Realtime/repetitorium/VU.WS.2014/rtr_rep_2014_ComputeShader.pdf
+
+RAY TRACING ATINY PROCEDURAL PLANET
+COOL GLSL TUTORIAL!
+https://casual-effects.com/research/McGuire2019ProcGen/McGuire2019ProcGen.pdf
+
+More examples from above
+https://casual-effects.com/
+
+Journey to compute shaders with rust
+https://jonathansteyfkens.com/blog/rust/2018/08/19/compute-shaders.html
+
+RayTracing Acceleration Structs Thesis
+http://xol.io/random/thesis.pdf
+
+!!!!!!
+[Smooth resizing in Vulkan](./resizing.md)
+!!!!!!
+
+Hash Functions Random for GPU Rendering
+http://jcgt.org/published/0009/03/02/paper.pdf
+
+Spherical Harmonic Lighting: The Gritty Details
+http://www.cse.chalmers.se/~uffe/xjobb/Readings/GlobalIllumination/Spherical%20Harmonic%20Lighting%20-%20the%20gritty%20details.pdf
