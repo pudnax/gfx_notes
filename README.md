@@ -381,3 +381,6 @@ http://jcgt.org/published/0009/03/02/paper.pdf
 
 Spherical Harmonic Lighting: The Gritty Details
 http://www.cse.chalmers.se/~uffe/xjobb/Readings/GlobalIllumination/Spherical%20Harmonic%20Lighting%20-%20the%20gritty%20details.pdf
+
+Quick lightning in shadertoy
+https://www.youtube.com/watch?v=FilPE91ACOA
