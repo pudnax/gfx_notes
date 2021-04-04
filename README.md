@@ -384,3 +384,13 @@ http://www.cse.chalmers.se/~uffe/xjobb/Readings/GlobalIllumination/Spherical%20H
 
 Quick lightning in shadertoy
 https://www.youtube.com/watch?v=FilPE91ACOA
+
+A blog about learning 3D programming
+https://bruop.github.io/
+
+GLSL Practice With Shadertoy
+http://viclw17.github.io/2018/06/12/GLSL-Practice-With-Shadertoy/
+
+https://gamehacker1999.github.io/posts/bluenoiseerrors/
+
+http://barradeau.com/blog/?p=621
