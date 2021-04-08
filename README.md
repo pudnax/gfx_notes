@@ -394,3 +394,15 @@ http://viclw17.github.io/2018/06/12/GLSL-Practice-With-Shadertoy/
 https://gamehacker1999.github.io/posts/bluenoiseerrors/
 
 http://barradeau.com/blog/?p=621
+
+Article about raymarching, cheatsheet and optimizations
+https://www.cs.williams.edu/~morgan/cs371-f14/reading/implicit.pdf
+
+https://blog.uhawkvr.com/rendering/rendering-volumetric-clouds-using-signed-distance-fields/
+
+https://graphics.stanford.edu/courses/cs148-10-summer/docs/2006--degreve--reflection_refraction.pdf
+7 April 2021
+
+http://www-evasion.imag.fr/Membres/Fabrice.Neyret/flownoise/index.gb.html
+
+http://www.viniciusgraciano.com/blog/making-of-sunfall/
