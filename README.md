@@ -406,3 +406,41 @@ https://graphics.stanford.edu/courses/cs148-10-summer/docs/2006--degreve--reflec
 http://www-evasion.imag.fr/Membres/Fabrice.Neyret/flownoise/index.gb.html
 
 http://www.viniciusgraciano.com/blog/making-of-sunfall/
+
+Simon's Graphics Blog
+http://www.sjbrown.co.uk/
+
+Single C file, Realtime CPU/GPU Profiler with Remote Web Viewer - Celtoys/Remotery
+https://github.com/Celtoys/Remotery
+
+Distinctive Derivative Differences
+Pesky Problems with Procedural UVs
+https://bgolus.medium.com/distinctive-derivative-differences-cce38d36797b
+
+On the Link Between Optimization and Polynomials, Part 4
+http://fa.bianp.net/blog/2021/no-momentum/
+
+https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.18.4558&rep=rep1&type=pdf
+https://www.graphics.cornell.edu/~bjw/wardnotes.pdf
+
+Rendering large 3D tilemaps with a single draw call at 3000 FPS
+https://blog.paavo.me/gpu-tilemap-rendering/
+
+Moving The Machinery to a bindless resource binding model.
+https://ourmachinery.com/post/moving-the-machinery-to-bindless/
+
+Texture tiling and swizzling
+https://fgiesen.wordpress.com/2011/01/17/texture-tiling-and-swizzling/
+
+Asynchronous streams in Rust (part 2) - Cancelling expired requests...
+https://gendignoux.com/blog/2021/04/08/rust-async-streams-futures-part2.html
+
+https://www.cg.tuwien.ac.at/research/publications/2021/SCHUETZ-2021-PCC/
+https://github.com/m-schuetz/compute_rasterizer
+
+m-schuetz/compute_rasterizer
+Rendering Point Clouds with Compute Shaders. Contribute to m-schuetz/compute_rasterizer development by creating an account on GitHub.
+
+Pixel Filtering
+https://jorenjoestar.github.io/post/pixel_art_filtering/
+https://github.com/JorenJoestar/DataDrivenRendering
