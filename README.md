@@ -444,3 +444,9 @@ Rendering Point Clouds with Compute Shaders. Contribute to m-schuetz/compute_ras
 Pixel Filtering
 https://jorenjoestar.github.io/post/pixel_art_filtering/
 https://github.com/JorenJoestar/DataDrivenRendering
+
+https://travisdowns.github.io/blog/2020/01/20/zero.html
+https://drive.google.com/drive/folders/1t-ROR9n-jwKDX3KLNXAK5QCZcShAcm9Y
+￼https://meistdan.github.io/publications/bvh_star/paper.pdf
+https://www.kalzumeus.com/2012/01/23/salary-negotiation/
+https://interplayoflight.wordpress.com/2021/04/18/how-to-read-shader-assembly/
