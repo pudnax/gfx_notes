@@ -450,3 +450,35 @@ https://drive.google.com/drive/folders/1t-ROR9n-jwKDX3KLNXAK5QCZcShAcm9Y
 ￼https://meistdan.github.io/publications/bvh_star/paper.pdf
 https://www.kalzumeus.com/2012/01/23/salary-negotiation/
 https://interplayoflight.wordpress.com/2021/04/18/how-to-read-shader-assembly/
+
+https://svkt.org/~simias/guide.pdf
+CPU GPU emulation
+
+http://geometry.caltech.edu/pubs/MMdGD11.pdf
+HOT: Hodge-Optimized Triangulations
+
+Sensor Calibration from Scratch with Rust
+https://www.tangramvision.com/blog/calibration-from-scratch-using-rust-part-1-of-3
+
+rust vulkan android stuff
+https://gist.github.com/msiglreith/cdc2d17469e2310f3ee6494207ea1dbd
+https://github.com/msiglreith/wgpu-rs/commit/991c081ecd9d86856ec04969ee102a8c76a9bd0d
+
+https://users.cg.tuwien.ac.at/zsolnai/gfx/rendering-course/
+Károly Zsolnai-Fehér - Research Scientist
+Rendering Course Videos A course on ray tracing and global illumina...
+
+https://javaddevlog.blogspot.com/2021/06/doing-untangle-fractals.html
+Helix fractals using raymarching
+
+https://github.com/googlefonts/compute-shader-101/blob/main/docs/glossary.md
+Compute shader glossary
+
+https://rastergrid.com/blog/multimedia/2021/05/video-compression-basics/
+Video compression basics
+
+https://www.researchgate.net/publication/228347651_Kernel_techniques_From_machine_learning_to_meshless_methods
+Kernel techniques: From machine learning to meshless methods
+
+https://dassaultsystemes-technology.github.io/EnterprisePBRShadingModel/
+Enterprise PBR Shading Model
