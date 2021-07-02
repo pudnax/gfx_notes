@@ -482,3 +482,6 @@ Kernel techniques: From machine learning to meshless methods
 
 https://dassaultsystemes-technology.github.io/EnterprisePBRShadingModel/
 Enterprise PBR Shading Model
+
+http://archive.bridgesmathart.org/2021/index.html
+The Bridges Archive: 2021 Math Art
