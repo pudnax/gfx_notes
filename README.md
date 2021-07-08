@@ -196,6 +196,7 @@ r/GraphicsProgramming - Owen-Scrambled Sobol (0,2) Sequences. Shade...
 20 votes and 4 comments so far on Reddit
 
 
+
 https://cs.dartmouth.edu/~wjarosz/publications/jarosz19orthogonal.html
 Wojciech Jarosz
 Orthogonal array sampling for Monte Carlo rendering
@@ -485,3 +486,6 @@ Enterprise PBR Shading Model
 
 http://archive.bridgesmathart.org/2021/index.html
 The Bridges Archive: 2021 Math Art
+
+GPU Compute Model Terminology / Quick Reference / Rosetta Stone
+https://landonthomas.net/docs/gpu_compute_model_terms_quick_ref.pdf
