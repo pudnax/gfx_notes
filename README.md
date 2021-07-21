@@ -489,3 +489,16 @@ The Bridges Archive: 2021 Math Art
 
 GPU Compute Model Terminology / Quick Reference / Rosetta Stone
 https://landonthomas.net/docs/gpu_compute_model_terms_quick_ref.pdf
+
+
+Understanding GPU caches
+https://rastergrid.com/blog/gpu-tech/2021/01/understanding-gpu-caches/
+
+Tile Based GPU explained
+https://rastergrid.com/blog/gpu-tech/2021/07/gpu-architecture-types-explained/
+
+ Collection of resources (papers, links, discussions, shadertoys,...) related to Signed Distance Field
+https://github.com/CedricGuillemet/SDF
+https://www2.compute.dtu.dk/pubdb/edoc/imm6392.pdf
+https://erleuchtet.org/~cupe/permanent/enhanced_sphere_tracing.pdf
+https://graphics.stanford.edu/courses/cs348b-20-spring-content/uploads/hart.pdf
