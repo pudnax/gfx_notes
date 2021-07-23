@@ -502,3 +502,6 @@ https://github.com/CedricGuillemet/SDF
 https://www2.compute.dtu.dk/pubdb/edoc/imm6392.pdf
 https://erleuchtet.org/~cupe/permanent/enhanced_sphere_tracing.pdf
 https://graphics.stanford.edu/courses/cs348b-20-spring-content/uploads/hart.pdf
+
+GPU Optimization
+https://gist.github.com/silvesthu/505cf0cbf284bb4b971f6834b8fec93d
