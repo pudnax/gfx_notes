@@ -53,7 +53,7 @@ In shaders (where you can asuint() on floats for free) similar tricks can often 
 
 https://observablehq.com/@makio135/creative-coding
 Observable & creative coding
-Lionel Radisson, alias makio135. I'm a designer/maker/teacher and for 10 years, I've been playing with creative code doing generative graphics, digital fabrication, web experiments, interactive installations, … Throughout these years, I've used many different tools including openprocessing, codepen, glitch, p5js editor, github pages, canvas-sket...
+Lionel Radisson, alias makio135. I'm a designer/maker/teacher and for 10 years, I've been playing with creative code doing generative graphics, digital fabrication, web experiments, interactive installations, … Throughout these years, I've used many [different](different) tools including openprocessing, codepen, glitch, p5js editor, github pages, canvas-sket...
 
 
 https://twitter.com/TekF/status/1228307610190958592
@@ -505,3 +505,17 @@ https://graphics.stanford.edu/courses/cs348b-20-spring-content/uploads/hart.pdf
 
 GPU Optimization
 https://gist.github.com/silvesthu/505cf0cbf284bb4b971f6834b8fec93d
+
+Intution importance sampling 
+https://gist.github.com/breakin/8df6d6c29369a1188e4e76df686024af
+https://graphics.stanford.edu/courses/cs348b-03/papers/veach-chapter9.pdf
+https://www.breakin.se/mc-intro/index.html
+
+http://www.aclockworkberry.com/shader-derivative-functions/
+[20:47]
+An introduction to shader derivative functions dFdx
+
+https://edp.org/work/Construction.pdf
+Construction of a HighConstruction of a HighConstruction of a HighConstruction of a High----Performance FFT
+
+https://alia-traces.github.io/
